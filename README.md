@@ -1,7 +1,8 @@
-# Chat Box App
-
+<h1 align="center">Chat Box App</h1>
+<p align="center">
+ 
 The Chat Box App is an application designed to provide real-time communication between users. It allows users to exchange messages and engage in conversations in a seamless and interactive manner. The app utilizes Node.js and Socket.IO for efficient and reliable real-time communication.
-
+</p>
 ## Features
 
 - **Real-Time Messaging**: Engage in instant messaging with other users, allowing for quick and interactive communication.
@@ -19,12 +20,23 @@ The Chat Box App is an application designed to provide real-time communication b
 
 
 ## Screenshots
-<div align="center">
-  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/ea7fa7f0-1d40-4049-91d4-913386211f47" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/b3881d44-6e26-4863-9178-91587e5d7846" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/e2cfce31-8958-48c5-a6a0-91cdf243ab5f" width="200" style="margin: 10px;">
-  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/07fd9ec1-0673-4531-b786-8266f4b8bb04" width="200" style="margin: 10px;">
-</div>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/ea7fa7f0-1d40-4049-91d4-913386211f47"  alt="Screenshot 1" width="400">
+  <br>
+  <em>Enter your Name</em>
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/b3881d44-6e26-4863-9178-91587e5d7846" alt="Screenshot 2" width="400">
+  <br>
+ 
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/e2cfce31-8958-48c5-a6a0-91cdf243ab5f"alt="Screenshot 3" width="400">
+<br>
+</p>
+<p align="center">
+  <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/07fd9ec1-0673-4531-b786-8266f4b8bb04"alt="Screenshot 3" width="400">
+</p>
 
 
 
