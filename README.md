@@ -1,9 +1,10 @@
-<h1 align="center">Chat Box App</h1>
+<h1 align="center" style="font-size: 36px; color: #336699; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">Chat Box App</h1>
+
 <p align="center">
  
 The Chat Box App is an application designed to provide real-time communication between users. It allows users to exchange messages and engage in conversations in a seamless and interactive manner. The app utilizes Node.js and Socket.IO for efficient and reliable real-time communication.
 </p>
-## Features
+**Features:**
 
 - **Real-Time Messaging**: Engage in instant messaging with other users, allowing for quick and interactive communication.
 - **Message History**: Access the chat history to view and refer to previous conversations.
