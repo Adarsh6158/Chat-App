@@ -52,6 +52,7 @@ The Chat Box App is an application designed to provide real-time communication b
 
 For support, email adarsh6158@gmail.com.
 
-## Links
+## 🔗 Link\
 
-- LinkedIn: [Adarsh](https://www.linkedin.com/in/adarsh-35a9931ba/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-35a9931ba/)
