@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 36px; color: #336699; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">Chat Box App</h1>
+<h1 align="center">Chat Box App</h1> 
 
 <p align="center">
  
