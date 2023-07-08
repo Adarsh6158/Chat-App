@@ -19,10 +19,6 @@ The Chat Box App is an application designed to provide real-time communication b
 
 
 ## Screenshots
-![1](https://github.com/Adarsh6158/Chat-App/assets/119891550/ea7fa7f0-1d40-4049-91d4-913386211f47)
-![2](https://github.com/Adarsh6158/Chat-App/assets/119891550/b3881d44-6e26-4863-9178-91587e5d7846)
-![4](https://github.com/Adarsh6158/Chat-App/assets/119891550/e2cfce31-8958-48c5-a6a0-91cdf243ab5f)
-![3](https://github.com/Adarsh6158/Chat-App/assets/119891550/07fd9ec1-0673-4531-b786-8266f4b8bb04)
 <div align="center">
   <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/ea7fa7f0-1d40-4049-91d4-913386211f47" width="200" style="margin: 10px;">
   <img src="https://github.com/Adarsh6158/Chat-App/assets/119891550/b3881d44-6e26-4863-9178-91587e5d7846" width="200" style="margin: 10px;">
