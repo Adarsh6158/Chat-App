@@ -4,11 +4,6 @@
  
 The Chat Box App is an application designed to provide real-time communication between users. It allows users to exchange messages and engage in conversations in a seamless and interactive manner. The app utilizes Node.js and Socket.IO for efficient and reliable real-time communication.
 </p>
-**Features:**
-
-- **Real-Time Messaging**: Engage in instant messaging with other users, allowing for quick and interactive communication.
-- **Message History**: Access the chat history to view and refer to previous conversations.
-- **Notifications**: Receive notifications for new messages and stay updated even when the app is not actively open.
 
 ## Why Chat Box App?
 
@@ -18,7 +13,11 @@ The Chat Box App is an application designed to provide real-time communication b
 - Enhance your conversations with a variety of emojis and GIFs.
 - Access message history for reference and review.
 - Stay notified with new message alerts, ensuring you don't miss any important conversations.
-
+  
+## Features
+- **Real-Time Messaging**: Engage in instant messaging with other users, allowing for quick and interactive communication.
+- **Message History**: Access the chat history to view and refer to previous conversations.
+- **Notifications**: Receive notifications for new messages and stay updated even when the app is not actively open.
 
 ## Screenshots
 <p align="center">
